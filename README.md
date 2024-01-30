@@ -1,12 +1,11 @@
-# Sales analysis: Here are some tasks
+## Customer analysis: Here are some tasks
 - Understand the current purchasing trends and behaviours. 
 - The client is particularly interested in customer segments and chip purchasing behaviour.
 
 I've shared some insights below so you can check with my code.
 
-#### Brand Insight
+## Brand Insight
 1. There is a big difference between Total Sales and Total Sold products among some brands (Smiths, Doritos, Thins and Cobs)
-
 => Those products should be pushed for sales to gain profitability
 
 2. Top 3 favourite brands: Smiths, Doritos and Thins
@@ -21,8 +20,7 @@ I've shared some insights below so you can check with my code.
 The younger generation chooses to live healthier; therefore, they do not spend much on chips.
 
 
-
-#### Customer insights
+## Customer insights
 - There are more Mainstream - young singles/couples and Mainstream - retirees who buy chips. This contributes to more sales to these customer segments, which is not a major driver for the Budget - Older Families segment.
 
 - Even though the young, new and middle-aged segment do not buy frequently, they are ready to pay more than the older people
