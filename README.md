@@ -1,8 +1,8 @@
 ## Customer analysis: Here are some tasks
-- Understand the current purchasing trends and behaviours. 
+- A client wants to understand the current purchasing trends and behaviours. 
 - The client is particularly interested in customer segments and chip purchasing behaviour.
 
-I've shared some insights below so you can check with my code.
+#### I've shared some insights below so you can check with my code.
 
 ## Brand Insight
 1. There is a big difference between Total Sales and Total Sold products among some brands (Smiths, Doritos, Thins and Cobs)
